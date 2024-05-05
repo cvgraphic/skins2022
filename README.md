@@ -4,8 +4,6 @@
 
 <p align="center"><img src="https://i.imgur.com/ywTE8BR.png" height="460"></p>
 
-<a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
-
 <details>
 <summary>Screenshots (click to expand)</summary>
 <p align="center"><img src="https://i.imgur.com/bycL6EJ.jpeg" title="Menu Background"height="480"></p>
@@ -34,8 +32,6 @@ ___
 
 
 <p align="center"><img src="https://i.imgur.com/1wxUQpI.png" height="460"></p>
-
-<a href="https://youtu.be/YZAfXbyhOYI" target="_blank">Video preview</a>
 
 <details>
 <summary>Screenshots (click to expand)</summary>
